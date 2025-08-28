@@ -263,6 +263,17 @@ const getTransportCostShowData = async (params) => {
       p4, p5, p6, p7
     });
 
+    // รวม palletcost + COST ใน calPalletData แล้วเก็บในฟิลด์ COST เดิม
+    if (Array.isArray(calPalletData)) {
+      calPalletData.forEach(item => {
+        if (item.palletcost && item.COST) {
+          const palletCost = parseFloat(item.palletcost) || 0;
+          const cost = parseFloat(item.COST) || 0;
+          item.COST = (palletCost + cost).toFixed(2);
+        }
+      });
+    }
+
     // จัดรูปแบบตัวเลขให้เป็นทศนิยม 2 จุด
     const formattedShowData = formatNumericFields(showData || []);
     const formattedShowTruckData = formatNumericFields(showTruckData || []);

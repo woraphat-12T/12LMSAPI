@@ -28,6 +28,7 @@ const apiLogsRoutes = require('./routes/apiLogs');
 const warehouseRoutes = require('./routes/warehouse');
 
 const importProductPlanRoutes = require('./routes/pdm/importProductPlan');
+const specialPlanRoutes = require('./routes/pdm/specialPlan');
 
 const app = express();
 const httpServer = createServer(app);
@@ -88,6 +89,7 @@ app.use('/api/report/oms/planning-all', planningAllRoutes);
 app.use('/api/oms/manage/backlog', backlogRoutes);
 
 app.use('/api/import-product-plan', importProductPlanRoutes);
+app.use('/api/special-plan', specialPlanRoutes);
 
 app.use('/api/user', userRoutes);
 app.use('/api/logs', apiLogsRoutes);
@@ -130,5 +132,7 @@ async function startServer() {
         process.exit(1);
     }
 }
+
+require('../cronjob/main')
 
 startServer(); 

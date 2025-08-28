@@ -10,6 +10,21 @@ class ApiLogger {
     async ensureLogFile() {
         try {
             await fs.access(this.logFilePath);
+            
+            // Check if file is corrupted and try to repair
+            try {
+                const data = await fs.readFile(this.logFilePath, 'utf8');
+                if (data.trim()) {
+                    JSON.parse(data);
+                }
+            } catch (parseError) {
+                console.warn('Log file appears to be corrupted, attempting repair...');
+                await this.repairLogFile();
+            }
+            
+            // Clean up old logs periodically
+            await this.cleanupOldLogs();
+            
         } catch (error) {
             // Create directory if it doesn't exist
             const dir = path.dirname(this.logFilePath);
@@ -140,20 +155,47 @@ class ApiLogger {
 
     async saveLogEntry(logEntry) {
         try {
-            // Read existing logs
-            const data = await fs.readFile(this.logFilePath, 'utf8');
-            const logs = JSON.parse(data);
+            // Read existing logs with error handling
+            let logs = [];
+            try {
+                const data = await fs.readFile(this.logFilePath, 'utf8');
+                if (data.trim()) {
+                    logs = JSON.parse(data);
+                }
+            } catch (readError) {
+                console.error('Error reading log file, creating new one:', readError);
+                // If file is corrupted, create new one
+                logs = [];
+            }
+            
+            // Validate logs array
+            if (!Array.isArray(logs)) {
+                console.warn('Logs file is corrupted, resetting to empty array');
+                logs = [];
+            }
             
             // Add new log entry
             logs.push(logEntry);
             
-            // Keep only last 10000 entries to prevent file from growing too large
-            if (logs.length > 10000) {
-                logs.splice(0, logs.length - 10000);
+            // Keep only last 5000 entries to prevent file from growing too large
+            if (logs.length > 5000) {
+                logs.splice(0, logs.length - 5000);
             }
             
-            // Write back to file
-            await fs.writeFile(this.logFilePath, JSON.stringify(logs, null, 2));
+            // Write back to file with error handling
+            try {
+                await fs.writeFile(this.logFilePath, JSON.stringify(logs, null, 2));
+            } catch (writeError) {
+                console.error('Error writing to log file:', writeError);
+                // Try to write to backup file
+                const backupPath = this.logFilePath + '.backup';
+                try {
+                    await fs.writeFile(backupPath, JSON.stringify(logs, null, 2));
+                    console.log('Logs saved to backup file:', backupPath);
+                } catch (backupError) {
+                    console.error('Failed to write to backup file:', backupError);
+                }
+            }
         } catch (error) {
             console.error('Error saving API log:', error);
         }
@@ -162,7 +204,23 @@ class ApiLogger {
     async getLogs(limit = 100, offset = 0) {
         try {
             const data = await fs.readFile(this.logFilePath, 'utf8');
-            const logs = JSON.parse(data);
+            if (!data.trim()) {
+                return [];
+            }
+            
+            let logs;
+            try {
+                logs = JSON.parse(data);
+            } catch (parseError) {
+                console.error('Error parsing log file:', parseError);
+                return [];
+            }
+            
+            // Validate logs array
+            if (!Array.isArray(logs)) {
+                console.warn('Logs file is corrupted, returning empty array');
+                return [];
+            }
             
             // Return logs with pagination
             return logs.slice(offset, offset + limit);
@@ -175,7 +233,23 @@ class ApiLogger {
     async getLogsByDate(startDate, endDate) {
         try {
             const data = await fs.readFile(this.logFilePath, 'utf8');
-            const logs = JSON.parse(data);
+            if (!data.trim()) {
+                return [];
+            }
+            
+            let logs;
+            try {
+                logs = JSON.parse(data);
+            } catch (parseError) {
+                console.error('Error parsing log file:', parseError);
+                return [];
+            }
+            
+            // Validate logs array
+            if (!Array.isArray(logs)) {
+                console.warn('Logs file is corrupted, returning empty array');
+                return [];
+            }
             
             const start = new Date(startDate);
             const end = new Date(endDate);
@@ -193,7 +267,23 @@ class ApiLogger {
     async getLogsByEmployee(employeeID) {
         try {
             const data = await fs.readFile(this.logFilePath, 'utf8');
-            const logs = JSON.parse(data);
+            if (!data.trim()) {
+                return [];
+            }
+            
+            let logs;
+            try {
+                logs = JSON.parse(data);
+            } catch (parseError) {
+                console.error('Error parsing log file:', parseError);
+                return [];
+            }
+            
+            // Validate logs array
+            if (!Array.isArray(logs)) {
+                console.warn('Logs file is corrupted, returning empty array');
+                return [];
+            }
             
             return logs.filter(log => 
                 log.headers.employeeID === employeeID
@@ -207,7 +297,44 @@ class ApiLogger {
     async getStatistics() {
         try {
             const data = await fs.readFile(this.logFilePath, 'utf8');
-            const logs = JSON.parse(data);
+            if (!data.trim()) {
+                return {
+                    totalCalls: 0,
+                    averageResponseTime: 0,
+                    callsByMethod: {},
+                    callsByStatus: {},
+                    callsByEmployee: {},
+                    callsByDepartment: {}
+                };
+            }
+            
+            let logs;
+            try {
+                logs = JSON.parse(data);
+            } catch (parseError) {
+                console.error('Error parsing log file:', parseError);
+                return {
+                    totalCalls: 0,
+                    averageResponseTime: 0,
+                    callsByMethod: {},
+                    callsByStatus: {},
+                    callsByEmployee: {},
+                    callsByDepartment: {}
+                };
+            }
+            
+            // Validate logs array
+            if (!Array.isArray(logs)) {
+                console.warn('Logs file is corrupted, returning empty stats');
+                return {
+                    totalCalls: 0,
+                    averageResponseTime: 0,
+                    callsByMethod: {},
+                    callsByStatus: {},
+                    callsByEmployee: {},
+                    callsByDepartment: {}
+                };
+            }
             
             const stats = {
                 totalCalls: logs.length,
@@ -248,6 +375,127 @@ class ApiLogger {
                 callsByEmployee: {},
                 callsByDepartment: {}
             };
+        }
+    }
+
+    async repairLogFile() {
+        try {
+            console.log('Attempting to repair corrupted log file...');
+            
+            // Try to read the file and find where it's corrupted
+            const data = await fs.readFile(this.logFilePath, 'utf8');
+            
+            // Find the last valid JSON array
+            let lastValidPosition = 0;
+            let bracketCount = 0;
+            let inString = false;
+            let escapeNext = false;
+            
+            for (let i = 0; i < data.length; i++) {
+                const char = data[i];
+                
+                if (escapeNext) {
+                    escapeNext = false;
+                    continue;
+                }
+                
+                if (char === '\\') {
+                    escapeNext = true;
+                    continue;
+                }
+                
+                if (char === '"' && !escapeNext) {
+                    inString = !inString;
+                    continue;
+                }
+                
+                if (!inString) {
+                    if (char === '[') {
+                        bracketCount++;
+                    } else if (char === ']') {
+                        bracketCount--;
+                        if (bracketCount === 0) {
+                            lastValidPosition = i;
+                        }
+                    }
+                }
+            }
+            
+            if (lastValidPosition > 0) {
+                // Extract valid JSON part
+                const validJson = data.substring(0, lastValidPosition + 1);
+                try {
+                    const logs = JSON.parse(validJson);
+                    if (Array.isArray(logs)) {
+                        // Create backup of corrupted file
+                        const backupPath = this.logFilePath + '.corrupted.' + Date.now();
+                        await fs.writeFile(backupPath, data);
+                        console.log('Corrupted file backed up to:', backupPath);
+                        
+                        // Write repaired file
+                        await fs.writeFile(this.logFilePath, JSON.stringify(logs, null, 2));
+                        console.log('Log file repaired successfully');
+                        return true;
+                    }
+                } catch (parseError) {
+                    console.error('Failed to parse even the truncated JSON:', parseError);
+                }
+            }
+            
+            // If we can't repair, reset the file
+            console.log('Cannot repair log file, resetting to empty array');
+            await fs.writeFile(this.logFilePath, JSON.stringify([], null, 2));
+            return true;
+            
+        } catch (error) {
+            console.error('Error repairing log file:', error);
+            // Try to reset the file
+            try {
+                await fs.writeFile(this.logFilePath, JSON.stringify([], null, 2));
+                console.log('Log file reset to empty array');
+                return true;
+            } catch (resetError) {
+                console.error('Failed to reset log file:', resetError);
+                return false;
+            }
+        }
+    }
+
+    async cleanupOldLogs() {
+        try {
+            console.log('Cleaning up old log entries...');
+            
+            const data = await fs.readFile(this.logFilePath, 'utf8');
+            if (!data.trim()) {
+                return;
+            }
+            
+            let logs;
+            try {
+                logs = JSON.parse(data);
+            } catch (parseError) {
+                console.error('Error parsing log file during cleanup:', parseError);
+                return;
+            }
+            
+            if (!Array.isArray(logs)) {
+                console.warn('Logs file is corrupted during cleanup');
+                return;
+            }
+            
+            // Keep only last 5000 entries (reduced from 10000)
+            if (logs.length > 5000) {
+                const removedCount = logs.length - 5000;
+                logs.splice(0, removedCount);
+                console.log(`Removed ${removedCount} old log entries`);
+                
+                // Write cleaned logs back to file
+                await fs.writeFile(this.logFilePath, JSON.stringify(logs, null, 2));
+                console.log('Log file cleaned successfully');
+            }
+            
+        } catch (error) {
+            console.error('Error during log cleanup:', error);
         }
     }
 }
