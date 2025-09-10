@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { setupLogger } = require('../../utils/logger');
-const { getSpecialPlanData, updateSpecialPlanRemark, syncSpecialPlanData } = require('../../controllers/specialPlanController');
+const { getSpecialPlanData, updateSpecialPlanRemark, syncSpecialPlanData, sendSpecialPlanEmail, sendSpecialPlanSummaryEmail } = require('../../controllers/specialPlanController');
 
 const logger = setupLogger();
 
@@ -156,6 +156,7 @@ router.post('/sync-data', async (req, res) => {
       dateBackThreeMonth
     });
 
+
     res.status(200).json({
       success: true,
       data: result,
@@ -167,6 +168,328 @@ router.post('/sync-data', async (req, res) => {
     res.status(500).json({
       success: false,
       error: 'Failed to sync special plan data',
+      message: process.env.NODE_ENV === 'development' ? error.message : undefined
+    });
+  }
+});
+
+/**
+ * POST /api/special-plan/send-email
+ * Send email notification for special plan
+ * Body Parameters:
+ * - po_no: Purchase Order number (required)
+ * - recipients: Email recipients - can be string or array (required)
+ * - emailType: Type of email ('notification', 'reminder', 'status_update') (optional, default: 'notification')
+ * - customMessage: Custom message (optional)
+ * - empId: Employee ID who triggered the email (required)
+ */
+router.post('/send-email', async (req, res) => {
+  try {
+    const { po_no, recipients, emailType, customMessage, empId } = req.body;
+
+    // ตรวจสอบข้อมูลที่จำเป็น
+    if (!po_no) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'po_no is required'
+      });
+    }
+
+    if (!recipients) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'recipients is required'
+      });
+    }
+
+    if (!empId) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'empId is required'
+      });
+    }
+
+    // ตรวจสอบรูปแบบ recipients
+    let emailRecipients = recipients;
+    if (typeof recipients === 'string') {
+      // แยกอีเมลหลายตัวด้วย comma หรือ semicolon
+      emailRecipients = recipients.split(/[,;]/).map(email => email.trim()).filter(email => email);
+    } else if (!Array.isArray(recipients)) {
+      return res.status(400).json({
+        success: false,
+        error: 'Invalid recipients format',
+        message: 'recipients must be string or array'
+      });
+    }
+
+    // ตรวจสอบ emailType ที่อนุญาต
+    const allowedEmailTypes = ['notification', 'reminder', 'status_update'];
+    if (emailType && !allowedEmailTypes.includes(emailType)) {
+      return res.status(400).json({
+        success: false,
+        error: 'Invalid email type',
+        message: `emailType must be one of: ${allowedEmailTypes.join(', ')}`
+      });
+    }
+
+    logger.info('Processing send email request:', {
+      po_no,
+      recipients: emailRecipients,
+      emailType: emailType || 'notification',
+      empId,
+      hasCustomMessage: !!customMessage
+    });
+
+    // เรียก function เพื่อส่งเมล
+    const result = await sendSpecialPlanEmail({
+      po_no,
+      recipients: emailRecipients,
+      emailType: emailType || 'notification',
+      customMessage,
+      empId
+    });
+
+    logger.info('Send email completed successfully:', {
+      po_no,
+      emailType: emailType || 'notification',
+      empId,
+      success: result.success
+    });
+
+    res.status(200).json({
+      success: true,
+      data: result,
+      message: 'ส่งเมลเรียบร้อยแล้ว'
+    });
+
+  } catch (error) {
+    logger.error('Error in send email route:', error);
+    res.status(500).json({
+      success: false,
+      error: 'Failed to send email',
+      message: process.env.NODE_ENV === 'development' ? error.message : undefined
+    });
+  }
+});
+
+/**
+ * POST /api/special-plan/send-bulk-email
+ * Send bulk email notifications for multiple POs
+ * Body Parameters:
+ * - po_list: Array of PO numbers (required)
+ * - recipients: Email recipients - can be string or array (required)
+ * - emailType: Type of email ('notification', 'reminder', 'status_update') (optional, default: 'notification')
+ * - customMessage: Custom message (optional)
+ * - empId: Employee ID who triggered the email (required)
+ */
+router.post('/send-bulk-email', async (req, res) => {
+  try {
+    const { po_list, recipients, emailType, customMessage, empId } = req.body;
+
+    // ตรวจสอบข้อมูลที่จำเป็น
+    if (!po_list || !Array.isArray(po_list) || po_list.length === 0) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'po_list is required and must be non-empty array'
+      });
+    }
+
+    if (!recipients) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'recipients is required'
+      });
+    }
+
+    if (!empId) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'empId is required'
+      });
+    }
+
+    // ตรวจสอบรูปแบบ recipients
+    let emailRecipients = recipients;
+    if (typeof recipients === 'string') {
+      emailRecipients = recipients.split(/[,;]/).map(email => email.trim()).filter(email => email);
+    } else if (!Array.isArray(recipients)) {
+      return res.status(400).json({
+        success: false,
+        error: 'Invalid recipients format',
+        message: 'recipients must be string or array'
+      });
+    }
+
+    // ตรวจสอบ emailType ที่อนุญาต
+    const allowedEmailTypes = ['notification', 'reminder', 'status_update'];
+    if (emailType && !allowedEmailTypes.includes(emailType)) {
+      return res.status(400).json({
+        success: false,
+        error: 'Invalid email type',
+        message: `emailType must be one of: ${allowedEmailTypes.join(', ')}`
+      });
+    }
+
+    logger.info('Processing send bulk email request:', {
+      poCount: po_list.length,
+      recipients: emailRecipients,
+      emailType: emailType || 'notification',
+      empId,
+      hasCustomMessage: !!customMessage
+    });
+
+    // ส่งเมลทีละ PO
+    const results = [];
+    const errors = [];
+
+    for (const po_no of po_list) {
+      try {
+        const result = await sendSpecialPlanEmail({
+          po_no,
+          recipients: emailRecipients,
+          emailType: emailType || 'notification',
+          customMessage,
+          empId
+        });
+        results.push({ po_no, success: true, result });
+      } catch (error) {
+        logger.error(`Error sending email for PO ${po_no}:`, error);
+        errors.push({ po_no, success: false, error: error.message });
+      }
+    }
+
+    const successCount = results.length;
+    const errorCount = errors.length;
+
+    logger.info('Send bulk email completed:', {
+      totalPOs: po_list.length,
+      successCount,
+      errorCount,
+      emailType: emailType || 'notification',
+      empId
+    });
+
+    res.status(200).json({
+      success: true,
+      data: {
+        totalPOs: po_list.length,
+        successCount,
+        errorCount,
+        results,
+        errors
+      },
+      message: `ส่งเมลเรียบร้อยแล้ว ${successCount}/${po_list.length} PO${errorCount > 0 ? ` (มีข้อผิดพลาด ${errorCount} PO)` : ''}`
+    });
+
+  } catch (error) {
+    logger.error('Error in send bulk email route:', error);
+    res.status(500).json({
+      success: false,
+      error: 'Failed to send bulk email',
+      message: process.env.NODE_ENV === 'development' ? error.message : undefined
+    });
+  }
+});
+
+/**
+ * POST /api/special-plan/send-summary-email
+ * Send summary email for special plan data
+ * Body Parameters:
+ * - totalRecords: Total number of records (required)
+ * - poList: Array of PO numbers (required)
+ * - poDetails: Array of PO details with record counts (optional)
+ * - recipients: Email recipients - can be string or array (required)
+ * - empId: Employee ID who triggered the email (required)
+ */
+router.post('/send-summary-email', async (req, res) => {
+  try {
+    const { totalRecords, poList, poDetails, recipients, empId } = req.body;
+
+    // ตรวจสอบข้อมูลที่จำเป็น
+    if (totalRecords === undefined || totalRecords === null) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'totalRecords is required'
+      });
+    }
+
+    if (!poList || !Array.isArray(poList) || poList.length === 0) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'poList is required and must be non-empty array'
+      });
+    }
+
+    if (!recipients) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'recipients is required'
+      });
+    }
+
+    if (!empId) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field',
+        message: 'empId is required'
+      });
+    }
+
+    // ตรวจสอบรูปแบบ recipients
+    let emailRecipients = recipients;
+    if (typeof recipients === 'string') {
+      emailRecipients = recipients.split(/[,;]/).map(email => email.trim()).filter(email => email);
+    } else if (!Array.isArray(recipients)) {
+      return res.status(400).json({
+        success: false,
+        error: 'Invalid recipients format',
+        message: 'recipients must be string or array'
+      });
+    }
+
+    logger.info('Processing send summary email request:', {
+      totalRecords,
+      poCount: poList.length,
+      recipients: emailRecipients,
+      empId
+    });
+
+    // เรียก function เพื่อส่งเมลสรุป
+    const result = await sendSpecialPlanSummaryEmail({
+      totalRecords,
+      poList,
+      poDetails: poDetails || [],
+      recipients: emailRecipients,
+      empId
+    });
+
+    logger.info('Send summary email completed successfully:', {
+      totalRecords,
+      poCount: poList.length,
+      empId,
+      success: result.success
+    });
+
+    res.status(200).json({
+      success: true,
+      data: result,
+      message: 'ส่งเมลสรุปเรียบร้อยแล้ว'
+    });
+
+  } catch (error) {
+    logger.error('Error in send summary email route:', error);
+    res.status(500).json({
+      success: false,
+      error: 'Failed to send summary email',
       message: process.env.NODE_ENV === 'development' ? error.message : undefined
     });
   }

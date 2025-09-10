@@ -1140,5 +1140,4805 @@
     },
     "body": {},
     "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-28T03:33:24.565Z",
+    "requestTime": "2025-08-28T03:33:24.405Z",
+    "responseTime": "2025-08-28T03:33:24.565Z",
+    "duration": 160,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-28T03:33:24.688Z",
+    "requestTime": "2025-08-28T03:33:24.403Z",
+    "responseTime": "2025-08-28T03:33:24.688Z",
+    "duration": 285,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-28T03:33:40.847Z",
+    "requestTime": "2025-08-28T03:33:40.200Z",
+    "responseTime": "2025-08-28T03:33:40.847Z",
+    "duration": 647,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-28T03:33:41.027Z",
+    "requestTime": "2025-08-28T03:33:40.198Z",
+    "responseTime": "2025-08-28T03:33:41.027Z",
+    "duration": 829,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-28T03:45:09.783Z",
+    "requestTime": "2025-08-28T03:45:09.394Z",
+    "responseTime": "2025-08-28T03:45:09.783Z",
+    "duration": 389,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-28T03:45:10.125Z",
+    "requestTime": "2025-08-28T03:45:09.392Z",
+    "responseTime": "2025-08-28T03:45:10.125Z",
+    "duration": 733,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-28T10:00:47.397Z",
+    "requestTime": "2025-08-28T10:00:47.125Z",
+    "responseTime": "2025-08-28T10:00:47.397Z",
+    "duration": 272,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-28T10:00:47.484Z",
+    "requestTime": "2025-08-28T10:00:47.401Z",
+    "responseTime": "2025-08-28T10:00:47.484Z",
+    "duration": 83,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-28T10:00:47.542Z",
+    "requestTime": "2025-08-28T10:00:47.108Z",
+    "responseTime": "2025-08-28T10:00:47.542Z",
+    "duration": 434,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-28T10:00:47.839Z",
+    "requestTime": "2025-08-28T10:00:47.549Z",
+    "responseTime": "2025-08-28T10:00:47.839Z",
+    "duration": 290,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T01:53:33.106Z",
+    "requestTime": "2025-08-29T01:53:32.942Z",
+    "responseTime": "2025-08-29T01:53:33.106Z",
+    "duration": 164,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T01:53:33.189Z",
+    "requestTime": "2025-08-29T01:53:32.931Z",
+    "responseTime": "2025-08-29T01:53:33.189Z",
+    "duration": 258,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T01:53:33.301Z",
+    "requestTime": "2025-08-29T01:53:33.195Z",
+    "responseTime": "2025-08-29T01:53:33.301Z",
+    "duration": 106,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:11:37.466Z",
+    "requestTime": "2025-08-29T09:11:37.329Z",
+    "responseTime": "2025-08-29T09:11:37.466Z",
+    "duration": 137,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:11:37.512Z",
+    "requestTime": "2025-08-29T09:11:37.469Z",
+    "responseTime": "2025-08-29T09:11:37.512Z",
+    "duration": 43,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:11:37.528Z",
+    "requestTime": "2025-08-29T09:11:37.316Z",
+    "responseTime": "2025-08-29T09:11:37.528Z",
+    "duration": 212,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:11:37.630Z",
+    "requestTime": "2025-08-29T09:11:37.533Z",
+    "responseTime": "2025-08-29T09:11:37.630Z",
+    "duration": 97,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:22:32.014Z",
+    "requestTime": "2025-08-29T09:22:31.690Z",
+    "responseTime": "2025-08-29T09:22:32.014Z",
+    "duration": 324,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:22:32.124Z",
+    "requestTime": "2025-08-29T09:22:32.019Z",
+    "responseTime": "2025-08-29T09:22:32.124Z",
+    "duration": 105,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:22:32.300Z",
+    "requestTime": "2025-08-29T09:22:31.683Z",
+    "responseTime": "2025-08-29T09:22:32.300Z",
+    "duration": 617,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:22:32.512Z",
+    "requestTime": "2025-08-29T09:22:32.304Z",
+    "responseTime": "2025-08-29T09:22:32.512Z",
+    "duration": 208,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:24:10.573Z",
+    "requestTime": "2025-08-29T09:24:10.448Z",
+    "responseTime": "2025-08-29T09:24:10.573Z",
+    "duration": 125,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:24:10.620Z",
+    "requestTime": "2025-08-29T09:24:10.577Z",
+    "responseTime": "2025-08-29T09:24:10.620Z",
+    "duration": 43,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:24:10.708Z",
+    "requestTime": "2025-08-29T09:24:10.447Z",
+    "responseTime": "2025-08-29T09:24:10.708Z",
+    "duration": 261,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:24:10.882Z",
+    "requestTime": "2025-08-29T09:24:10.714Z",
+    "responseTime": "2025-08-29T09:24:10.882Z",
+    "duration": 168,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:25:05.013Z",
+    "requestTime": "2025-08-29T09:25:04.908Z",
+    "responseTime": "2025-08-29T09:25:05.013Z",
+    "duration": 105,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:25:05.079Z",
+    "requestTime": "2025-08-29T09:25:04.906Z",
+    "responseTime": "2025-08-29T09:25:05.079Z",
+    "duration": 173,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:34:57.935Z",
+    "requestTime": "2025-08-29T09:34:57.739Z",
+    "responseTime": "2025-08-29T09:34:57.935Z",
+    "duration": 196,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:40:55.836Z",
+    "requestTime": "2025-08-29T09:40:55.721Z",
+    "responseTime": "2025-08-29T09:40:55.836Z",
+    "duration": 115,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:40:55.889Z",
+    "requestTime": "2025-08-29T09:40:55.842Z",
+    "responseTime": "2025-08-29T09:40:55.889Z",
+    "duration": 47,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2212
+  },
+  {
+    "timestamp": "2025-08-29T09:40:55.920Z",
+    "requestTime": "2025-08-29T09:40:55.712Z",
+    "responseTime": "2025-08-29T09:40:55.920Z",
+    "duration": 208,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:40:56.075Z",
+    "requestTime": "2025-08-29T09:40:55.926Z",
+    "responseTime": "2025-08-29T09:40:56.075Z",
+    "duration": 149,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 317717
+  },
+  {
+    "timestamp": "2025-08-29T09:45:29.870Z",
+    "requestTime": "2025-08-29T09:45:29.393Z",
+    "responseTime": "2025-08-29T09:45:29.870Z",
+    "duration": 477,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 393213
+  },
+  {
+    "timestamp": "2025-08-29T09:47:57.062Z",
+    "requestTime": "2025-08-29T09:47:56.891Z",
+    "responseTime": "2025-08-29T09:47:57.062Z",
+    "duration": 171,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:48:35.355Z",
+    "requestTime": "2025-08-29T09:48:35.203Z",
+    "responseTime": "2025-08-29T09:48:35.355Z",
+    "duration": 152,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:48:35.410Z",
+    "requestTime": "2025-08-29T09:48:35.361Z",
+    "responseTime": "2025-08-29T09:48:35.410Z",
+    "duration": 49,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:48:35.427Z",
+    "requestTime": "2025-08-29T09:48:35.200Z",
+    "responseTime": "2025-08-29T09:48:35.427Z",
+    "duration": 227,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:48:35.538Z",
+    "requestTime": "2025-08-29T09:48:35.438Z",
+    "responseTime": "2025-08-29T09:48:35.538Z",
+    "duration": 100,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:48:46.998Z",
+    "requestTime": "2025-08-29T09:48:46.707Z",
+    "responseTime": "2025-08-29T09:48:46.998Z",
+    "duration": 291,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:48:47.031Z",
+    "requestTime": "2025-08-29T09:48:47.000Z",
+    "responseTime": "2025-08-29T09:48:47.031Z",
+    "duration": 31,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:48:47.140Z",
+    "requestTime": "2025-08-29T09:48:46.705Z",
+    "responseTime": "2025-08-29T09:48:47.140Z",
+    "duration": 435,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:48:47.333Z",
+    "requestTime": "2025-08-29T09:48:47.144Z",
+    "responseTime": "2025-08-29T09:48:47.333Z",
+    "duration": 189,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:49:00.746Z",
+    "requestTime": "2025-08-29T09:49:00.499Z",
+    "responseTime": "2025-08-29T09:49:00.746Z",
+    "duration": 247,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:51:08.492Z",
+    "requestTime": "2025-08-29T09:51:08.217Z",
+    "responseTime": "2025-08-29T09:51:08.492Z",
+    "duration": 275,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:51:08.551Z",
+    "requestTime": "2025-08-29T09:51:08.494Z",
+    "responseTime": "2025-08-29T09:51:08.551Z",
+    "duration": 57,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:51:08.649Z",
+    "requestTime": "2025-08-29T09:51:08.214Z",
+    "responseTime": "2025-08-29T09:51:08.649Z",
+    "duration": 435,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:51:08.816Z",
+    "requestTime": "2025-08-29T09:51:08.655Z",
+    "responseTime": "2025-08-29T09:51:08.816Z",
+    "duration": 161,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:52:56.112Z",
+    "requestTime": "2025-08-29T09:52:55.992Z",
+    "responseTime": "2025-08-29T09:52:56.112Z",
+    "duration": 120,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:52:56.156Z",
+    "requestTime": "2025-08-29T09:52:56.114Z",
+    "responseTime": "2025-08-29T09:52:56.156Z",
+    "duration": 42,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T09:52:56.193Z",
+    "requestTime": "2025-08-29T09:52:55.990Z",
+    "responseTime": "2025-08-29T09:52:56.193Z",
+    "duration": 203,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T09:52:56.275Z",
+    "requestTime": "2025-08-29T09:52:56.198Z",
+    "responseTime": "2025-08-29T09:52:56.275Z",
+    "duration": 77,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T10:23:29.211Z",
+    "requestTime": "2025-08-29T10:23:29.098Z",
+    "responseTime": "2025-08-29T10:23:29.211Z",
+    "duration": 113,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T10:23:29.247Z",
+    "requestTime": "2025-08-29T10:23:29.213Z",
+    "responseTime": "2025-08-29T10:23:29.247Z",
+    "duration": 34,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T10:23:29.285Z",
+    "requestTime": "2025-08-29T10:23:29.095Z",
+    "responseTime": "2025-08-29T10:23:29.285Z",
+    "duration": 190,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T10:23:29.375Z",
+    "requestTime": "2025-08-29T10:23:29.291Z",
+    "responseTime": "2025-08-29T10:23:29.375Z",
+    "duration": 84,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 331363
+  },
+  {
+    "timestamp": "2025-08-29T10:24:20.939Z",
+    "requestTime": "2025-08-29T10:24:20.807Z",
+    "responseTime": "2025-08-29T10:24:20.939Z",
+    "duration": 132,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-08-29T10:24:20.970Z",
+    "requestTime": "2025-08-29T10:24:20.943Z",
+    "responseTime": "2025-08-29T10:24:20.970Z",
+    "duration": 27,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-08-29T10:24:20.978Z",
+    "requestTime": "2025-08-29T10:24:20.948Z",
+    "responseTime": "2025-08-29T10:24:20.978Z",
+    "duration": 30,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-08-29T10:24:22.278Z",
+    "requestTime": "2025-08-29T10:24:22.253Z",
+    "responseTime": "2025-08-29T10:24:22.278Z",
+    "duration": 25,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-08-29T10:24:22.304Z",
+    "requestTime": "2025-08-29T10:24:22.281Z",
+    "responseTime": "2025-08-29T10:24:22.304Z",
+    "duration": 23,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-08-29T10:24:22.315Z",
+    "requestTime": "2025-08-29T10:24:22.256Z",
+    "responseTime": "2025-08-29T10:24:22.315Z",
+    "duration": 59,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-08-29T10:24:22.344Z",
+    "requestTime": "2025-08-29T10:24:22.318Z",
+    "responseTime": "2025-08-29T10:24:22.344Z",
+    "duration": 26,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-08-29T10:25:02.261Z",
+    "requestTime": "2025-08-29T10:25:02.060Z",
+    "responseTime": "2025-08-29T10:25:02.261Z",
+    "duration": 201,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T10:25:02.330Z",
+    "requestTime": "2025-08-29T10:25:02.265Z",
+    "responseTime": "2025-08-29T10:25:02.330Z",
+    "duration": 65,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T10:25:02.382Z",
+    "requestTime": "2025-08-29T10:25:02.057Z",
+    "responseTime": "2025-08-29T10:25:02.382Z",
+    "duration": 325,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-08-29T10:25:02.486Z",
+    "requestTime": "2025-08-29T10:25:02.394Z",
+    "responseTime": "2025-08-29T10:25:02.486Z",
+    "duration": 92,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-08-29T10:26:02.414Z",
+    "requestTime": "2025-08-29T10:26:02.270Z",
+    "responseTime": "2025-08-29T10:26:02.414Z",
+    "duration": 144,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-08-29T10:26:02.497Z",
+    "requestTime": "2025-08-29T10:26:02.268Z",
+    "responseTime": "2025-08-29T10:26:02.497Z",
+    "duration": 229,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-09-02T01:01:18.121Z",
+    "requestTime": "2025-09-02T01:01:17.988Z",
+    "responseTime": "2025-09-02T01:01:18.121Z",
+    "duration": 133,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-09-02T01:01:18.183Z",
+    "requestTime": "2025-09-02T01:01:18.125Z",
+    "responseTime": "2025-09-02T01:01:18.183Z",
+    "duration": 58,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-09-02T01:01:18.294Z",
+    "requestTime": "2025-09-02T01:01:18.185Z",
+    "responseTime": "2025-09-02T01:01:18.294Z",
+    "duration": 109,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-09-02T02:03:58.558Z",
+    "requestTime": "2025-09-02T02:03:58.244Z",
+    "responseTime": "2025-09-02T02:03:58.558Z",
+    "duration": 314,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-09-02T02:03:58.660Z",
+    "requestTime": "2025-09-02T02:03:58.560Z",
+    "responseTime": "2025-09-02T02:03:58.660Z",
+    "duration": 100,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-09-02T02:03:58.792Z",
+    "requestTime": "2025-09-02T02:03:58.228Z",
+    "responseTime": "2025-09-02T02:03:58.792Z",
+    "duration": 564,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-09-02T02:03:59.012Z",
+    "requestTime": "2025-09-02T02:03:58.799Z",
+    "responseTime": "2025-09-02T02:03:59.012Z",
+    "duration": 213,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-09-02T02:12:27.472Z",
+    "requestTime": "2025-09-02T02:12:26.872Z",
+    "responseTime": "2025-09-02T02:12:27.472Z",
+    "duration": 600,
+    "method": "GET",
+    "url": "/api/oms/manage/backlog/reason-options",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {},
+    "responseSize": 708
+  },
+  {
+    "timestamp": "2025-09-02T02:12:29.237Z",
+    "requestTime": "2025-09-02T02:12:29.059Z",
+    "responseTime": "2025-09-02T02:12:29.237Z",
+    "duration": 178,
+    "method": "GET",
+    "url": "/api/oms/manage/backlog/reason-options",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {},
+    "responseSize": 708
+  },
+  {
+    "timestamp": "2025-09-02T02:12:29.252Z",
+    "requestTime": "2025-09-02T02:12:29.245Z",
+    "responseTime": "2025-09-02T02:12:29.252Z",
+    "duration": 7,
+    "method": "GET",
+    "url": "/api/warehouse",
+    "statusCode": 401,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "68213",
+      "fullName": "Woraphat Srisawat",
+      "fullNameThai": "",
+      "department": "Information Technology Department",
+      "position": "Programmer",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {},
+    "responseSize": 31
+  },
+  {
+    "timestamp": "2025-09-02T02:12:30.277Z",
+    "requestTime": "2025-09-02T02:12:30.149Z",
+    "responseTime": "2025-09-02T02:12:30.277Z",
+    "duration": 128,
+    "method": "GET",
+    "url": "/api/oms/manage/backlog/reorganized?who=111&dc=111",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "68213",
+      "fullName": "Woraphat Srisawat",
+      "fullNameThai": "",
+      "department": "Information Technology Department",
+      "position": "Programmer",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {
+      "who": "111",
+      "dc": "111"
+    },
+    "body": {},
+    "responseSize": 98610
+  },
+  {
+    "timestamp": "2025-09-02T02:12:30.843Z",
+    "requestTime": "2025-09-02T02:12:30.841Z",
+    "responseTime": "2025-09-02T02:12:30.843Z",
+    "duration": 2,
+    "method": "GET",
+    "url": "/api/warehouse",
+    "statusCode": 401,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "68213",
+      "fullName": "Woraphat Srisawat",
+      "fullNameThai": "",
+      "department": "Information Technology Department",
+      "position": "Programmer",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {},
+    "responseSize": 31
+  },
+  {
+    "timestamp": "2025-09-02T02:12:31.654Z",
+    "requestTime": "2025-09-02T02:12:31.407Z",
+    "responseTime": "2025-09-02T02:12:31.654Z",
+    "duration": 247,
+    "method": "GET",
+    "url": "/api/oms/manage/backlog/reorganized?who=111&dc=111",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "68213",
+      "fullName": "Woraphat Srisawat",
+      "fullNameThai": "",
+      "department": "Information Technology Department",
+      "position": "Programmer",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {
+      "who": "111",
+      "dc": "111"
+    },
+    "body": {},
+    "responseSize": 98610
+  },
+  {
+    "timestamp": "2025-09-02T02:12:48.411Z",
+    "requestTime": "2025-09-02T02:12:47.762Z",
+    "responseTime": "2025-09-02T02:12:48.411Z",
+    "duration": 649,
+    "method": "POST",
+    "url": "/api/auth/login",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "",
+      "fullName": "username: woraphat.sri password: ***MASKED***",
+      "fullNameThai": "",
+      "department": "",
+      "position": "",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {
+      "username": "woraphat.sri",
+      "password": "***MASKED***"
+    },
+    "responseSize": 927
+  },
+  {
+    "timestamp": "2025-09-02T02:35:59.827Z",
+    "requestTime": "2025-09-02T02:35:59.620Z",
+    "responseTime": "2025-09-02T02:35:59.827Z",
+    "duration": 207,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-09-02T02:35:59.891Z",
+    "requestTime": "2025-09-02T02:35:59.831Z",
+    "responseTime": "2025-09-02T02:35:59.891Z",
+    "duration": 60,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-09-02T02:35:59.949Z",
+    "requestTime": "2025-09-02T02:35:59.617Z",
+    "responseTime": "2025-09-02T02:35:59.949Z",
+    "duration": 332,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-09-02T02:36:00.092Z",
+    "requestTime": "2025-09-02T02:35:59.961Z",
+    "responseTime": "2025-09-02T02:36:00.092Z",
+    "duration": 131,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-09-02T02:36:21.601Z",
+    "requestTime": "2025-09-02T02:36:21.447Z",
+    "responseTime": "2025-09-02T02:36:21.601Z",
+    "duration": 154,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2309
+  },
+  {
+    "timestamp": "2025-09-02T02:36:21.793Z",
+    "requestTime": "2025-09-02T02:36:21.444Z",
+    "responseTime": "2025-09-02T02:36:21.793Z",
+    "duration": 349,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335331
+  },
+  {
+    "timestamp": "2025-09-02T02:37:26.094Z",
+    "requestTime": "2025-09-02T02:37:25.912Z",
+    "responseTime": "2025-09-02T02:37:26.094Z",
+    "duration": 182,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2312
+  },
+  {
+    "timestamp": "2025-09-02T02:37:26.154Z",
+    "requestTime": "2025-09-02T02:37:26.098Z",
+    "responseTime": "2025-09-02T02:37:26.154Z",
+    "duration": 56,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2312
+  },
+  {
+    "timestamp": "2025-09-02T02:37:26.216Z",
+    "requestTime": "2025-09-02T02:37:25.909Z",
+    "responseTime": "2025-09-02T02:37:26.216Z",
+    "duration": 307,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 327309
+  },
+  {
+    "timestamp": "2025-09-02T02:37:26.343Z",
+    "requestTime": "2025-09-02T02:37:26.228Z",
+    "responseTime": "2025-09-02T02:37:26.343Z",
+    "duration": 115,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 327309
+  },
+  {
+    "timestamp": "2025-09-02T02:47:53.143Z",
+    "requestTime": "2025-09-02T02:47:52.946Z",
+    "responseTime": "2025-09-02T02:47:53.143Z",
+    "duration": 197,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2312
+  },
+  {
+    "timestamp": "2025-09-02T02:47:53.182Z",
+    "requestTime": "2025-09-02T02:47:53.144Z",
+    "responseTime": "2025-09-02T02:47:53.182Z",
+    "duration": 38,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 2312
+  },
+  {
+    "timestamp": "2025-09-02T02:47:53.289Z",
+    "requestTime": "2025-09-02T02:47:52.943Z",
+    "responseTime": "2025-09-02T02:47:53.289Z",
+    "duration": 346,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 327309
+  },
+  {
+    "timestamp": "2025-09-02T02:47:53.846Z",
+    "requestTime": "2025-09-02T02:47:53.296Z",
+    "responseTime": "2025-09-02T02:47:53.846Z",
+    "duration": 550,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 327309
+  },
+  {
+    "timestamp": "2025-09-02T04:25:41.783Z",
+    "requestTime": "2025-09-02T04:25:41.556Z",
+    "responseTime": "2025-09-02T04:25:41.783Z",
+    "duration": 227,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250827",
+      "dateBackThreeMonth": "20250527"
+    },
+    "responseSize": 255
+  },
+  {
+    "timestamp": "2025-09-02T04:29:57.178Z",
+    "requestTime": "2025-09-02T04:29:51.873Z",
+    "responseTime": "2025-09-02T04:29:57.178Z",
+    "duration": 5305,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250827",
+      "dateBackThreeMonth": "20250527"
+    },
+    "responseSize": 5715
+  },
+  {
+    "timestamp": "2025-09-02T07:57:24.568Z",
+    "requestTime": "2025-09-02T07:57:24.310Z",
+    "responseTime": "2025-09-02T07:57:24.568Z",
+    "duration": 258,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T07:57:24.618Z",
+    "requestTime": "2025-09-02T07:57:24.571Z",
+    "responseTime": "2025-09-02T07:57:24.618Z",
+    "duration": 47,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T07:57:24.685Z",
+    "requestTime": "2025-09-02T07:57:24.301Z",
+    "responseTime": "2025-09-02T07:57:24.685Z",
+    "duration": 384,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 334195
+  },
+  {
+    "timestamp": "2025-09-02T07:57:24.808Z",
+    "requestTime": "2025-09-02T07:57:24.694Z",
+    "responseTime": "2025-09-02T07:57:24.808Z",
+    "duration": 114,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 334195
+  },
+  {
+    "timestamp": "2025-09-02T07:58:24.562Z",
+    "requestTime": "2025-09-02T07:58:24.408Z",
+    "responseTime": "2025-09-02T07:58:24.562Z",
+    "duration": 154,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T07:58:24.662Z",
+    "requestTime": "2025-09-02T07:58:24.406Z",
+    "responseTime": "2025-09-02T07:58:24.662Z",
+    "duration": 256,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 334195
+  },
+  {
+    "timestamp": "2025-09-02T08:00:56.250Z",
+    "requestTime": "2025-09-02T08:00:55.880Z",
+    "responseTime": "2025-09-02T08:00:56.250Z",
+    "duration": 370,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T08:00:56.305Z",
+    "requestTime": "2025-09-02T08:00:56.251Z",
+    "responseTime": "2025-09-02T08:00:56.305Z",
+    "duration": 54,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T08:00:56.364Z",
+    "requestTime": "2025-09-02T08:00:55.877Z",
+    "responseTime": "2025-09-02T08:00:56.364Z",
+    "duration": 487,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 334195
+  },
+  {
+    "timestamp": "2025-09-02T08:00:56.450Z",
+    "requestTime": "2025-09-02T08:00:56.369Z",
+    "responseTime": "2025-09-02T08:00:56.450Z",
+    "duration": 81,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 334195
+  },
+  {
+    "timestamp": "2025-09-02T08:01:09.786Z",
+    "requestTime": "2025-09-02T08:01:09.599Z",
+    "responseTime": "2025-09-02T08:01:09.786Z",
+    "duration": 187,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T08:01:09.847Z",
+    "requestTime": "2025-09-02T08:01:09.788Z",
+    "responseTime": "2025-09-02T08:01:09.847Z",
+    "duration": 59,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T08:01:09.929Z",
+    "requestTime": "2025-09-02T08:01:09.596Z",
+    "responseTime": "2025-09-02T08:01:09.929Z",
+    "duration": 333,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 334195
+  },
+  {
+    "timestamp": "2025-09-02T08:01:10.052Z",
+    "requestTime": "2025-09-02T08:01:09.934Z",
+    "responseTime": "2025-09-02T08:01:10.052Z",
+    "duration": 118,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 334195
+  },
+  {
+    "timestamp": "2025-09-02T10:02:45.302Z",
+    "requestTime": "2025-09-02T10:02:40.142Z",
+    "responseTime": "2025-09-02T10:02:45.302Z",
+    "duration": 5160,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250827",
+      "dateBackThreeMonth": "20250527"
+    },
+    "responseSize": 255
+  },
+  {
+    "timestamp": "2025-09-02T10:03:36.486Z",
+    "requestTime": "2025-09-02T10:03:36.346Z",
+    "responseTime": "2025-09-02T10:03:36.486Z",
+    "duration": 140,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T10:03:36.532Z",
+    "requestTime": "2025-09-02T10:03:36.488Z",
+    "responseTime": "2025-09-02T10:03:36.532Z",
+    "duration": 44,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-02T10:03:36.648Z",
+    "requestTime": "2025-09-02T10:03:36.342Z",
+    "responseTime": "2025-09-02T10:03:36.648Z",
+    "duration": 306,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335070
+  },
+  {
+    "timestamp": "2025-09-02T10:03:36.761Z",
+    "requestTime": "2025-09-02T10:03:36.667Z",
+    "responseTime": "2025-09-02T10:03:36.761Z",
+    "duration": 94,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 335070
+  },
+  {
+    "timestamp": "2025-09-05T07:20:05.598Z",
+    "requestTime": "2025-09-05T07:20:05.434Z",
+    "responseTime": "2025-09-05T07:20:05.598Z",
+    "duration": 164,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:20:05.735Z",
+    "requestTime": "2025-09-05T07:20:05.603Z",
+    "responseTime": "2025-09-05T07:20:05.735Z",
+    "duration": 132,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:20:05.812Z",
+    "requestTime": "2025-09-05T07:20:05.426Z",
+    "responseTime": "2025-09-05T07:20:05.812Z",
+    "duration": 386,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 338187
+  },
+  {
+    "timestamp": "2025-09-05T07:20:05.939Z",
+    "requestTime": "2025-09-05T07:20:05.821Z",
+    "responseTime": "2025-09-05T07:20:05.939Z",
+    "duration": 118,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 338187
+  },
+  {
+    "timestamp": "2025-09-05T07:21:05.408Z",
+    "requestTime": "2025-09-05T07:21:05.198Z",
+    "responseTime": "2025-09-05T07:21:05.408Z",
+    "duration": 210,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:21:05.445Z",
+    "requestTime": "2025-09-05T07:21:05.409Z",
+    "responseTime": "2025-09-05T07:21:05.445Z",
+    "duration": 36,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:21:05.889Z",
+    "requestTime": "2025-09-05T07:21:05.195Z",
+    "responseTime": "2025-09-05T07:21:05.889Z",
+    "duration": 694,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 338187
+  },
+  {
+    "timestamp": "2025-09-05T07:21:06.111Z",
+    "requestTime": "2025-09-05T07:21:05.894Z",
+    "responseTime": "2025-09-05T07:21:06.111Z",
+    "duration": 217,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 338187
+  },
+  {
+    "timestamp": "2025-09-05T07:22:30.856Z",
+    "requestTime": "2025-09-05T07:22:30.714Z",
+    "responseTime": "2025-09-05T07:22:30.856Z",
+    "duration": 142,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:22:30.886Z",
+    "requestTime": "2025-09-05T07:22:30.711Z",
+    "responseTime": "2025-09-05T07:22:30.886Z",
+    "duration": 175,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:22:30.899Z",
+    "requestTime": "2025-09-05T07:22:30.858Z",
+    "responseTime": "2025-09-05T07:22:30.899Z",
+    "duration": 41,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:22:30.966Z",
+    "requestTime": "2025-09-05T07:22:30.895Z",
+    "responseTime": "2025-09-05T07:22:30.966Z",
+    "duration": 71,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:22:38.971Z",
+    "requestTime": "2025-09-05T07:22:38.902Z",
+    "responseTime": "2025-09-05T07:22:38.971Z",
+    "duration": 69,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:22:38.989Z",
+    "requestTime": "2025-09-05T07:22:38.900Z",
+    "responseTime": "2025-09-05T07:22:38.989Z",
+    "duration": 89,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:22:39.034Z",
+    "requestTime": "2025-09-05T07:22:38.974Z",
+    "responseTime": "2025-09-05T07:22:39.034Z",
+    "duration": 60,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:22:39.057Z",
+    "requestTime": "2025-09-05T07:22:38.992Z",
+    "responseTime": "2025-09-05T07:22:39.057Z",
+    "duration": 65,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.198Z",
+    "requestTime": "2025-09-05T07:23:07.065Z",
+    "responseTime": "2025-09-05T07:23:07.198Z",
+    "duration": 133,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.241Z",
+    "requestTime": "2025-09-05T07:23:07.062Z",
+    "responseTime": "2025-09-05T07:23:07.241Z",
+    "duration": 179,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.249Z",
+    "requestTime": "2025-09-05T07:23:07.200Z",
+    "responseTime": "2025-09-05T07:23:07.249Z",
+    "duration": 49,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.314Z",
+    "requestTime": "2025-09-05T07:23:07.245Z",
+    "responseTime": "2025-09-05T07:23:07.314Z",
+    "duration": 69,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.900Z",
+    "requestTime": "2025-09-05T07:23:07.838Z",
+    "responseTime": "2025-09-05T07:23:07.900Z",
+    "duration": 62,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.911Z",
+    "requestTime": "2025-09-05T07:23:07.835Z",
+    "responseTime": "2025-09-05T07:23:07.911Z",
+    "duration": 76,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.950Z",
+    "requestTime": "2025-09-05T07:23:07.902Z",
+    "responseTime": "2025-09-05T07:23:07.950Z",
+    "duration": 48,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-05T07:23:07.989Z",
+    "requestTime": "2025-09-05T07:23:07.915Z",
+    "responseTime": "2025-09-05T07:23:07.989Z",
+    "duration": 74,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:23:41.923Z",
+    "requestTime": "2025-09-05T07:23:41.553Z",
+    "responseTime": "2025-09-05T07:23:41.923Z",
+    "duration": 370,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:23:41.938Z",
+    "requestTime": "2025-09-05T07:23:41.555Z",
+    "responseTime": "2025-09-05T07:23:41.938Z",
+    "duration": 383,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 179198
+  },
+  {
+    "timestamp": "2025-09-05T07:23:42.010Z",
+    "requestTime": "2025-09-05T07:23:41.926Z",
+    "responseTime": "2025-09-05T07:23:42.010Z",
+    "duration": 84,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-05T07:23:42.079Z",
+    "requestTime": "2025-09-05T07:23:41.943Z",
+    "responseTime": "2025-09-05T07:23:42.079Z",
+    "duration": 136,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 179198
+  },
+  {
+    "timestamp": "2025-09-08T01:06:07.907Z",
+    "requestTime": "2025-09-08T01:06:07.728Z",
+    "responseTime": "2025-09-08T01:06:07.907Z",
+    "duration": 179,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 179198
+  },
+  {
+    "timestamp": "2025-09-08T01:06:07.992Z",
+    "requestTime": "2025-09-08T01:06:07.922Z",
+    "responseTime": "2025-09-08T01:06:07.992Z",
+    "duration": 70,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 179198
+  },
+  {
+    "timestamp": "2025-09-08T02:14:27.034Z",
+    "requestTime": "2025-09-08T02:14:26.288Z",
+    "responseTime": "2025-09-08T02:14:27.034Z",
+    "duration": 746,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-08T02:14:27.156Z",
+    "requestTime": "2025-09-08T02:14:26.290Z",
+    "responseTime": "2025-09-08T02:14:27.156Z",
+    "duration": 866,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 179198
+  },
+  {
+    "timestamp": "2025-09-08T02:14:27.444Z",
+    "requestTime": "2025-09-08T02:14:27.040Z",
+    "responseTime": "2025-09-08T02:14:27.444Z",
+    "duration": 404,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-08T02:14:27.663Z",
+    "requestTime": "2025-09-08T02:14:27.162Z",
+    "responseTime": "2025-09-08T02:14:27.663Z",
+    "duration": 501,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 179198
+  },
+  {
+    "timestamp": "2025-09-08T02:23:37.856Z",
+    "requestTime": "2025-09-08T02:23:37.506Z",
+    "responseTime": "2025-09-08T02:23:37.856Z",
+    "duration": 350,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 169746
+  },
+  {
+    "timestamp": "2025-09-08T02:23:37.981Z",
+    "requestTime": "2025-09-08T02:23:37.877Z",
+    "responseTime": "2025-09-08T02:23:37.981Z",
+    "duration": 104,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 179198
+  },
+  {
+    "timestamp": "2025-09-08T02:49:10.713Z",
+    "requestTime": "2025-09-08T02:49:05.232Z",
+    "responseTime": "2025-09-08T02:49:10.713Z",
+    "duration": 5481,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 255
+  },
+  {
+    "timestamp": "2025-09-08T02:53:10.963Z",
+    "requestTime": "2025-09-08T02:53:05.992Z",
+    "responseTime": "2025-09-08T02:53:10.963Z",
+    "duration": 4971,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 255
+  },
+  {
+    "timestamp": "2025-09-08T02:53:40.315Z",
+    "requestTime": "2025-09-08T02:53:35.242Z",
+    "responseTime": "2025-09-08T02:53:40.315Z",
+    "duration": 5073,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 255
+  },
+  {
+    "timestamp": "2025-09-08T02:54:48.624Z",
+    "requestTime": "2025-09-08T02:54:43.726Z",
+    "responseTime": "2025-09-08T02:54:48.624Z",
+    "duration": 4898,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 255
+  },
+  {
+    "timestamp": "2025-09-08T03:01:33.130Z",
+    "requestTime": "2025-09-08T03:01:26.655Z",
+    "responseTime": "2025-09-08T03:01:33.130Z",
+    "duration": 6475,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 132596
+  },
+  {
+    "timestamp": "2025-09-08T03:12:45.279Z",
+    "requestTime": "2025-09-08T03:12:45.008Z",
+    "responseTime": "2025-09-08T03:12:45.279Z",
+    "duration": 271,
+    "method": "POST",
+    "url": "/api/special-plan/send-email",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "1254100007",
+      "recipients": "woraphat.sris@onetwotrading.co.th",
+      "emailType": "notification",
+      "customMessage": "กรุณาตรวจสอบข้อมูล",
+      "empId": "EMP001"
+    },
+    "responseSize": 350
+  },
+  {
+    "timestamp": "2025-09-08T03:14:34.616Z",
+    "requestTime": "2025-09-08T03:14:33.229Z",
+    "responseTime": "2025-09-08T03:14:34.616Z",
+    "duration": 1387,
+    "method": "POST",
+    "url": "/api/special-plan/send-email",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "1254100007",
+      "recipients": "woraphat.sris@onetwotrading.co.th",
+      "emailType": "notification",
+      "customMessage": "กรุณาตรวจสอบข้อมูล",
+      "empId": "EMP001"
+    },
+    "responseSize": 377
+  },
+  {
+    "timestamp": "2025-09-08T04:32:40.266Z",
+    "requestTime": "2025-09-08T04:32:34.749Z",
+    "responseTime": "2025-09-08T04:32:40.266Z",
+    "duration": 5517,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 132596
+  },
+  {
+    "timestamp": "2025-09-08T04:36:18.949Z",
+    "requestTime": "2025-09-08T04:36:10.816Z",
+    "responseTime": "2025-09-08T04:36:18.949Z",
+    "duration": 8133,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 167266
+  },
+  {
+    "timestamp": "2025-09-08T04:40:51.278Z",
+    "requestTime": "2025-09-08T04:40:44.163Z",
+    "responseTime": "2025-09-08T04:40:51.278Z",
+    "duration": 7115,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 139650
+  },
+  {
+    "timestamp": "2025-09-08T04:43:44.251Z",
+    "requestTime": "2025-09-08T04:43:37.996Z",
+    "responseTime": "2025-09-08T04:43:44.251Z",
+    "duration": 6255,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 2567
+  },
+  {
+    "timestamp": "2025-09-08T04:45:47.969Z",
+    "requestTime": "2025-09-08T04:45:43.064Z",
+    "responseTime": "2025-09-08T04:45:47.969Z",
+    "duration": 4905,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 296
+  },
+  {
+    "timestamp": "2025-09-08T04:46:23.076Z",
+    "requestTime": "2025-09-08T04:46:15.884Z",
+    "responseTime": "2025-09-08T04:46:23.076Z",
+    "duration": 7192,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 917
+  },
+  {
+    "timestamp": "2025-09-08T04:46:51.200Z",
+    "requestTime": "2025-09-08T04:46:50.959Z",
+    "responseTime": "2025-09-08T04:46:51.200Z",
+    "duration": 241,
+    "method": "POST",
+    "url": "/api/auth/login",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "",
+      "fullName": "username: woraphat.sri password: ***MASKED***",
+      "fullNameThai": "",
+      "department": "",
+      "position": "",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1528 x 738",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {
+      "username": "woraphat.sri",
+      "password": "***MASKED***"
+    },
+    "responseSize": 927
+  },
+  {
+    "timestamp": "2025-09-08T04:48:11.241Z",
+    "requestTime": "2025-09-08T04:48:11.069Z",
+    "responseTime": "2025-09-08T04:48:11.241Z",
+    "duration": 172,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:48:11.285Z",
+    "requestTime": "2025-09-08T04:48:11.245Z",
+    "responseTime": "2025-09-08T04:48:11.285Z",
+    "duration": 40,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:48:11.353Z",
+    "requestTime": "2025-09-08T04:48:11.066Z",
+    "responseTime": "2025-09-08T04:48:11.353Z",
+    "duration": 287,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:48:11.506Z",
+    "requestTime": "2025-09-08T04:48:11.361Z",
+    "responseTime": "2025-09-08T04:48:11.506Z",
+    "duration": 145,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:02.254Z",
+    "requestTime": "2025-09-08T04:49:02.068Z",
+    "responseTime": "2025-09-08T04:49:02.254Z",
+    "duration": 186,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:02.312Z",
+    "requestTime": "2025-09-08T04:49:02.255Z",
+    "responseTime": "2025-09-08T04:49:02.312Z",
+    "duration": 57,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:02.360Z",
+    "requestTime": "2025-09-08T04:49:02.065Z",
+    "responseTime": "2025-09-08T04:49:02.360Z",
+    "duration": 295,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:02.487Z",
+    "requestTime": "2025-09-08T04:49:02.366Z",
+    "responseTime": "2025-09-08T04:49:02.487Z",
+    "duration": 121,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:10.011Z",
+    "requestTime": "2025-09-08T04:49:09.875Z",
+    "responseTime": "2025-09-08T04:49:10.011Z",
+    "duration": 136,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:10.137Z",
+    "requestTime": "2025-09-08T04:49:10.013Z",
+    "responseTime": "2025-09-08T04:49:10.137Z",
+    "duration": 124,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:10.741Z",
+    "requestTime": "2025-09-08T04:49:09.873Z",
+    "responseTime": "2025-09-08T04:49:10.741Z",
+    "duration": 868,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:11.167Z",
+    "requestTime": "2025-09-08T04:49:10.749Z",
+    "responseTime": "2025-09-08T04:49:11.167Z",
+    "duration": 418,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:11.240Z",
+    "requestTime": "2025-09-08T04:49:10.902Z",
+    "responseTime": "2025-09-08T04:49:11.240Z",
+    "duration": 338,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:11.363Z",
+    "requestTime": "2025-09-08T04:49:11.241Z",
+    "responseTime": "2025-09-08T04:49:11.363Z",
+    "duration": 122,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:11.402Z",
+    "requestTime": "2025-09-08T04:49:10.899Z",
+    "responseTime": "2025-09-08T04:49:11.402Z",
+    "duration": 503,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:11.881Z",
+    "requestTime": "2025-09-08T04:49:11.410Z",
+    "responseTime": "2025-09-08T04:49:11.881Z",
+    "duration": 471,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:26.385Z",
+    "requestTime": "2025-09-08T04:49:26.138Z",
+    "responseTime": "2025-09-08T04:49:26.385Z",
+    "duration": 247,
+    "method": "POST",
+    "url": "/api/auth/login",
+    "statusCode": 401,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "",
+      "fullName": "username: woraphat.sri password: ***MASKED***",
+      "fullNameThai": "",
+      "department": "",
+      "position": "",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1528 x 738",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {
+      "username": "woraphat.sri",
+      "password": "***MASKED***"
+    },
+    "responseSize": 74
+  },
+  {
+    "timestamp": "2025-09-08T04:49:50.951Z",
+    "requestTime": "2025-09-08T04:49:50.793Z",
+    "responseTime": "2025-09-08T04:49:50.951Z",
+    "duration": 158,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:51.010Z",
+    "requestTime": "2025-09-08T04:49:50.954Z",
+    "responseTime": "2025-09-08T04:49:51.010Z",
+    "duration": 56,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:51.039Z",
+    "requestTime": "2025-09-08T04:49:50.790Z",
+    "responseTime": "2025-09-08T04:49:51.039Z",
+    "duration": 249,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:51.125Z",
+    "requestTime": "2025-09-08T04:49:51.046Z",
+    "responseTime": "2025-09-08T04:49:51.125Z",
+    "duration": 79,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:54.925Z",
+    "requestTime": "2025-09-08T04:49:54.858Z",
+    "responseTime": "2025-09-08T04:49:54.925Z",
+    "duration": 67,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:54.941Z",
+    "requestTime": "2025-09-08T04:49:54.856Z",
+    "responseTime": "2025-09-08T04:49:54.941Z",
+    "duration": 85,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:49:54.979Z",
+    "requestTime": "2025-09-08T04:49:54.927Z",
+    "responseTime": "2025-09-08T04:49:54.979Z",
+    "duration": 52,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:49:55.029Z",
+    "requestTime": "2025-09-08T04:49:54.947Z",
+    "responseTime": "2025-09-08T04:49:55.029Z",
+    "duration": 82,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:50:28.981Z",
+    "requestTime": "2025-09-08T04:50:28.717Z",
+    "responseTime": "2025-09-08T04:50:28.981Z",
+    "duration": 264,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:50:29.020Z",
+    "requestTime": "2025-09-08T04:50:28.983Z",
+    "responseTime": "2025-09-08T04:50:29.020Z",
+    "duration": 37,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:50:29.062Z",
+    "requestTime": "2025-09-08T04:50:28.712Z",
+    "responseTime": "2025-09-08T04:50:29.062Z",
+    "duration": 350,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:50:29.164Z",
+    "requestTime": "2025-09-08T04:50:29.068Z",
+    "responseTime": "2025-09-08T04:50:29.164Z",
+    "duration": 96,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:51:02.449Z",
+    "requestTime": "2025-09-08T04:51:02.281Z",
+    "responseTime": "2025-09-08T04:51:02.449Z",
+    "duration": 168,
+    "method": "POST",
+    "url": "/api/auth/login",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "",
+      "fullName": "username: woraphat.sri password: ***MASKED***",
+      "fullNameThai": "",
+      "department": "",
+      "position": "",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1528 x 738",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {
+      "username": "woraphat.sri",
+      "password": "***MASKED***"
+    },
+    "responseSize": 927
+  },
+  {
+    "timestamp": "2025-09-08T04:51:02.629Z",
+    "requestTime": "2025-09-08T04:51:02.484Z",
+    "responseTime": "2025-09-08T04:51:02.629Z",
+    "duration": 145,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:51:02.676Z",
+    "requestTime": "2025-09-08T04:51:02.631Z",
+    "responseTime": "2025-09-08T04:51:02.676Z",
+    "duration": 45,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:51:02.701Z",
+    "requestTime": "2025-09-08T04:51:02.482Z",
+    "responseTime": "2025-09-08T04:51:02.701Z",
+    "duration": 219,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:51:02.797Z",
+    "requestTime": "2025-09-08T04:51:02.707Z",
+    "responseTime": "2025-09-08T04:51:02.797Z",
+    "duration": 90,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:51:10.552Z",
+    "requestTime": "2025-09-08T04:51:10.503Z",
+    "responseTime": "2025-09-08T04:51:10.552Z",
+    "duration": 49,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:51:10.594Z",
+    "requestTime": "2025-09-08T04:51:10.500Z",
+    "responseTime": "2025-09-08T04:51:10.594Z",
+    "duration": 94,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T04:51:10.605Z",
+    "requestTime": "2025-09-08T04:51:10.555Z",
+    "responseTime": "2025-09-08T04:51:10.605Z",
+    "duration": 50,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T04:51:10.680Z",
+    "requestTime": "2025-09-08T04:51:10.602Z",
+    "responseTime": "2025-09-08T04:51:10.680Z",
+    "duration": 78,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T06:12:26.042Z",
+    "requestTime": "2025-09-08T06:12:22.888Z",
+    "responseTime": "2025-09-08T06:12:26.042Z",
+    "duration": 3154,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T06:12:26.080Z",
+    "requestTime": "2025-09-08T06:12:26.044Z",
+    "responseTime": "2025-09-08T06:12:26.080Z",
+    "duration": 36,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T06:12:26.142Z",
+    "requestTime": "2025-09-08T06:12:22.884Z",
+    "responseTime": "2025-09-08T06:12:26.142Z",
+    "duration": 3258,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T06:12:26.233Z",
+    "requestTime": "2025-09-08T06:12:26.148Z",
+    "responseTime": "2025-09-08T06:12:26.233Z",
+    "duration": 85,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 341231
+  },
+  {
+    "timestamp": "2025-09-08T06:22:00.156Z",
+    "requestTime": "2025-09-08T06:21:53.468Z",
+    "responseTime": "2025-09-08T06:22:00.156Z",
+    "duration": 6688,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1192
+  },
+  {
+    "timestamp": "2025-09-08T06:24:24.746Z",
+    "requestTime": "2025-09-08T06:24:19.393Z",
+    "responseTime": "2025-09-08T06:24:24.746Z",
+    "duration": 5353,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 296
+  },
+  {
+    "timestamp": "2025-09-08T06:27:44.905Z",
+    "requestTime": "2025-09-08T06:27:39.229Z",
+    "responseTime": "2025-09-08T06:27:44.905Z",
+    "duration": 5676,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 296
+  },
+  {
+    "timestamp": "2025-09-08T06:30:51.124Z",
+    "requestTime": "2025-09-08T06:30:45.010Z",
+    "responseTime": "2025-09-08T06:30:51.124Z",
+    "duration": 6114,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 917
+  },
+  {
+    "timestamp": "2025-09-08T06:32:26.144Z",
+    "requestTime": "2025-09-08T06:32:19.090Z",
+    "responseTime": "2025-09-08T06:32:26.144Z",
+    "duration": 7054,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 917
+  },
+  {
+    "timestamp": "2025-09-08T06:34:46.867Z",
+    "requestTime": "2025-09-08T06:34:39.915Z",
+    "responseTime": "2025-09-08T06:34:46.867Z",
+    "duration": 6952,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 917
+  },
+  {
+    "timestamp": "2025-09-08T06:52:43.511Z",
+    "requestTime": "2025-09-08T06:52:36.628Z",
+    "responseTime": "2025-09-08T06:52:43.511Z",
+    "duration": 6883,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1452
+  },
+  {
+    "timestamp": "2025-09-08T06:58:10.304Z",
+    "requestTime": "2025-09-08T06:57:50.114Z",
+    "responseTime": "2025-09-08T06:58:10.304Z",
+    "duration": 20190,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 500,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 107
+  },
+  {
+    "timestamp": "2025-09-08T06:59:40.996Z",
+    "requestTime": "2025-09-08T06:59:34.313Z",
+    "responseTime": "2025-09-08T06:59:40.996Z",
+    "duration": 6683,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T07:02:14.011Z",
+    "requestTime": "2025-09-08T07:02:02.741Z",
+    "responseTime": "2025-09-08T07:02:14.011Z",
+    "duration": 11270,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T07:15:52.182Z",
+    "requestTime": "2025-09-08T07:15:50.930Z",
+    "responseTime": "2025-09-08T07:15:52.182Z",
+    "duration": 1252,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060702004",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T07:20:10.490Z",
+    "requestTime": "2025-09-08T07:20:08.989Z",
+    "responseTime": "2025-09-08T07:20:10.490Z",
+    "duration": 1501,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 89
+  },
+  {
+    "timestamp": "2025-09-08T07:26:07.841Z",
+    "requestTime": "2025-09-08T07:26:05.310Z",
+    "responseTime": "2025-09-08T07:26:07.840Z",
+    "duration": 2530,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T07:31:33.508Z",
+    "requestTime": "2025-09-08T07:31:32.066Z",
+    "responseTime": "2025-09-08T07:31:33.508Z",
+    "duration": 1442,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10062203001",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T07:32:04.651Z",
+    "requestTime": "2025-09-08T07:32:02.734Z",
+    "responseTime": "2025-09-08T07:32:04.651Z",
+    "duration": 1917,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10062203001",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T08:35:47.821Z",
+    "requestTime": "2025-09-08T08:35:38.681Z",
+    "responseTime": "2025-09-08T08:35:47.821Z",
+    "duration": 9140,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T08:36:04.255Z",
+    "requestTime": "2025-09-08T08:36:02.796Z",
+    "responseTime": "2025-09-08T08:36:04.255Z",
+    "duration": 1459,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10062203001",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T08:37:03.088Z",
+    "requestTime": "2025-09-08T08:37:01.322Z",
+    "responseTime": "2025-09-08T08:37:03.088Z",
+    "duration": 1766,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T08:45:04.351Z",
+    "requestTime": "2025-09-08T08:44:56.730Z",
+    "responseTime": "2025-09-08T08:45:04.351Z",
+    "duration": 7621,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T08:45:36.637Z",
+    "requestTime": "2025-09-08T08:45:35.387Z",
+    "responseTime": "2025-09-08T08:45:36.637Z",
+    "duration": 1250,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:07:28.730Z",
+    "requestTime": "2025-09-08T09:07:21.039Z",
+    "responseTime": "2025-09-08T09:07:28.730Z",
+    "duration": 7691,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T09:08:25.669Z",
+    "requestTime": "2025-09-08T09:08:25.438Z",
+    "responseTime": "2025-09-08T09:08:25.669Z",
+    "duration": 231,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:08:47.928Z",
+    "requestTime": "2025-09-08T09:08:46.722Z",
+    "responseTime": "2025-09-08T09:08:47.928Z",
+    "duration": 1206,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10062203001",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:20:06.367Z",
+    "requestTime": "2025-09-08T09:19:58.996Z",
+    "responseTime": "2025-09-08T09:20:06.367Z",
+    "duration": 7371,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T09:20:10.872Z",
+    "requestTime": "2025-09-08T09:20:10.619Z",
+    "responseTime": "2025-09-08T09:20:10.872Z",
+    "duration": 253,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10062203001",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:20:25.666Z",
+    "requestTime": "2025-09-08T09:20:23.364Z",
+    "responseTime": "2025-09-08T09:20:25.666Z",
+    "duration": 2302,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:24:34.468Z",
+    "requestTime": "2025-09-08T09:24:27.965Z",
+    "responseTime": "2025-09-08T09:24:34.467Z",
+    "duration": 6502,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T09:24:44.378Z",
+    "requestTime": "2025-09-08T09:24:44.279Z",
+    "responseTime": "2025-09-08T09:24:44.378Z",
+    "duration": 99,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:25:06.021Z",
+    "requestTime": "2025-09-08T09:25:04.190Z",
+    "responseTime": "2025-09-08T09:25:06.021Z",
+    "duration": 1831,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10062203001",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:30:20.151Z",
+    "requestTime": "2025-09-08T09:30:13.703Z",
+    "responseTime": "2025-09-08T09:30:20.151Z",
+    "duration": 6448,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250908",
+      "dateBackThreeMonth": "20250608"
+    },
+    "responseSize": 1177
+  },
+  {
+    "timestamp": "2025-09-08T09:30:26.846Z",
+    "requestTime": "2025-09-08T09:30:26.816Z",
+    "responseTime": "2025-09-08T09:30:26.846Z",
+    "duration": 30,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10062203001",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:30:39.631Z",
+    "requestTime": "2025-09-08T09:30:37.880Z",
+    "responseTime": "2025-09-08T09:30:39.631Z",
+    "duration": 1751,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:32:32.288Z",
+    "requestTime": "2025-09-08T09:32:32.150Z",
+    "responseTime": "2025-09-08T09:32:32.288Z",
+    "duration": 138,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 1168
+  },
+  {
+    "timestamp": "2025-09-08T09:32:32.346Z",
+    "requestTime": "2025-09-08T09:32:32.293Z",
+    "responseTime": "2025-09-08T09:32:32.346Z",
+    "duration": 53,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 1168
+  },
+  {
+    "timestamp": "2025-09-08T09:32:32.409Z",
+    "requestTime": "2025-09-08T09:32:32.145Z",
+    "responseTime": "2025-09-08T09:32:32.408Z",
+    "duration": 263,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 400695
+  },
+  {
+    "timestamp": "2025-09-08T09:32:32.534Z",
+    "requestTime": "2025-09-08T09:32:32.419Z",
+    "responseTime": "2025-09-08T09:32:32.534Z",
+    "duration": 115,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 400695
+  },
+  {
+    "timestamp": "2025-09-08T09:34:17.580Z",
+    "requestTime": "2025-09-08T09:34:16.560Z",
+    "responseTime": "2025-09-08T09:34:17.580Z",
+    "duration": 1020,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 212716
+  },
+  {
+    "timestamp": "2025-09-08T09:34:17.880Z",
+    "requestTime": "2025-09-08T09:34:17.590Z",
+    "responseTime": "2025-09-08T09:34:17.880Z",
+    "duration": 290,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 202887
+  },
+  {
+    "timestamp": "2025-09-08T09:34:17.937Z",
+    "requestTime": "2025-09-08T09:34:17.593Z",
+    "responseTime": "2025-09-08T09:34:17.937Z",
+    "duration": 344,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 212716
+  },
+  {
+    "timestamp": "2025-09-08T09:36:41.799Z",
+    "requestTime": "2025-09-08T09:36:39.601Z",
+    "responseTime": "2025-09-08T09:36:41.799Z",
+    "duration": 2198,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6809830003",
+      "prd_id": "10060201004",
+      "note": "ทสอบการส่งเมล",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-08T09:36:41.925Z",
+    "requestTime": "2025-09-08T09:36:41.804Z",
+    "responseTime": "2025-09-08T09:36:41.925Z",
+    "duration": 121,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 202025
+  },
+  {
+    "timestamp": "2025-09-08T09:36:41.989Z",
+    "requestTime": "2025-09-08T09:36:41.807Z",
+    "responseTime": "2025-09-08T09:36:41.989Z",
+    "duration": 182,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 213603
+  },
+  {
+    "timestamp": "2025-09-08T09:59:07.314Z",
+    "requestTime": "2025-09-08T09:59:05.668Z",
+    "responseTime": "2025-09-08T09:59:07.314Z",
+    "duration": 1646,
+    "method": "POST",
+    "url": "/api/special-plan/update-remark",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "po_no": "6806800022",
+      "prd_id": "10060201005",
+      "note": "หมายเหตุใหม่ 2025-08-09 14:11",
+      "empId": "68213"
+    },
+    "responseSize": 104
+  },
+  {
+    "timestamp": "2025-09-09T01:07:25.806Z",
+    "requestTime": "2025-09-09T01:07:25.544Z",
+    "responseTime": "2025-09-09T01:07:25.806Z",
+    "duration": 262,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 213615
+  },
+  {
+    "timestamp": "2025-09-09T01:07:25.919Z",
+    "requestTime": "2025-09-09T01:07:25.828Z",
+    "responseTime": "2025-09-09T01:07:25.919Z",
+    "duration": 91,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 213615
+  },
+  {
+    "timestamp": "2025-09-09T04:19:36.798Z",
+    "requestTime": "2025-09-09T04:19:35.731Z",
+    "responseTime": "2025-09-09T04:19:36.798Z",
+    "duration": 1067,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 213615
+  },
+  {
+    "timestamp": "2025-09-09T04:23:33.011Z",
+    "requestTime": "2025-09-09T04:23:32.575Z",
+    "responseTime": "2025-09-09T04:23:33.011Z",
+    "duration": 436,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 202025
+  },
+  {
+    "timestamp": "2025-09-09T04:23:33.040Z",
+    "requestTime": "2025-09-09T04:23:32.577Z",
+    "responseTime": "2025-09-09T04:23:33.040Z",
+    "duration": 463,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 213615
+  },
+  {
+    "timestamp": "2025-09-09T04:24:32.624Z",
+    "requestTime": "2025-09-09T04:24:32.182Z",
+    "responseTime": "2025-09-09T04:24:32.624Z",
+    "duration": 442,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 202025
+  },
+  {
+    "timestamp": "2025-09-09T04:24:33.106Z",
+    "requestTime": "2025-09-09T04:24:32.185Z",
+    "responseTime": "2025-09-09T04:24:33.106Z",
+    "duration": 921,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 213615
+  },
+  {
+    "timestamp": "2025-09-09T04:26:42.313Z",
+    "requestTime": "2025-09-09T04:26:25.532Z",
+    "responseTime": "2025-09-09T04:26:42.313Z",
+    "duration": 16781,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.45.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250909",
+      "dateBackThreeMonth": "20250609"
+    },
+    "responseSize": 2277
+  },
+  {
+    "timestamp": "2025-09-09T09:51:11.526Z",
+    "requestTime": "2025-09-09T09:51:00.091Z",
+    "responseTime": "2025-09-09T09:51:11.526Z",
+    "duration": 11435,
+    "method": "POST",
+    "url": "/api/special-plan/sync-data",
+    "statusCode": 200,
+    "userAgent": "PostmanRuntime/7.46.0",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {},
+    "body": {
+      "dateNow": "20250909",
+      "dateBackThreeMonth": "20250609"
+    },
+    "responseSize": 2262
+  },
+  {
+    "timestamp": "2025-09-09T09:59:31.483Z",
+    "requestTime": "2025-09-09T09:59:31.477Z",
+    "responseTime": "2025-09-09T09:59:31.483Z",
+    "duration": 6,
+    "method": "GET",
+    "url": "/api/warehouse/all",
+    "statusCode": 401,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "68213",
+      "fullName": "Woraphat Srisawat",
+      "fullNameThai": "",
+      "department": "Information Technology Department",
+      "position": "Programmer",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {},
+    "responseSize": 31
+  },
+  {
+    "timestamp": "2025-09-09T09:59:31.792Z",
+    "requestTime": "2025-09-09T09:59:31.791Z",
+    "responseTime": "2025-09-09T09:59:31.792Z",
+    "duration": 1,
+    "method": "GET",
+    "url": "/api/warehouse/all",
+    "statusCode": 401,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "68213",
+      "fullName": "Woraphat Srisawat",
+      "fullNameThai": "",
+      "department": "Information Technology Department",
+      "position": "Programmer",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {},
+    "responseSize": 31
+  },
+  {
+    "timestamp": "2025-09-09T10:11:38.720Z",
+    "requestTime": "2025-09-09T10:11:38.536Z",
+    "responseTime": "2025-09-09T10:11:38.720Z",
+    "duration": 184,
+    "method": "POST",
+    "url": "/api/auth/login",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "employeeID": "",
+      "fullName": "username: woraphat.sri password: ***MASKED***",
+      "fullNameThai": "",
+      "department": "",
+      "position": "",
+      "clientIP": "171.103.242.50",
+      "deviceName": "localhost",
+      "operatingSystem": "Windows",
+      "websiteResolution": "1536 x 695",
+      "displayResolution": "1536 x 864"
+    },
+    "query": {},
+    "body": {
+      "username": "woraphat.sri",
+      "password": "***MASKED***"
+    },
+    "responseSize": 927
+  },
+  {
+    "timestamp": "2025-09-09T10:23:28.409Z",
+    "requestTime": "2025-09-09T10:23:28.181Z",
+    "responseTime": "2025-09-09T10:23:28.409Z",
+    "duration": 228,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 215400
+  },
+  {
+    "timestamp": "2025-09-09T10:23:28.432Z",
+    "requestTime": "2025-09-09T10:23:28.178Z",
+    "responseTime": "2025-09-09T10:23:28.432Z",
+    "duration": 254,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 207593
+  },
+  {
+    "timestamp": "2025-09-09T10:23:28.530Z",
+    "requestTime": "2025-09-09T10:23:28.446Z",
+    "responseTime": "2025-09-09T10:23:28.530Z",
+    "duration": 84,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 207593
+  },
+  {
+    "timestamp": "2025-09-10T02:11:12.815Z",
+    "requestTime": "2025-09-10T02:11:10.885Z",
+    "responseTime": "2025-09-10T02:11:12.815Z",
+    "duration": 1930,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 207593
+  },
+  {
+    "timestamp": "2025-09-10T02:11:13.471Z",
+    "requestTime": "2025-09-10T02:11:12.818Z",
+    "responseTime": "2025-09-10T02:11:13.471Z",
+    "duration": 653,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 215400
+  },
+  {
+    "timestamp": "2025-09-10T02:11:13.536Z",
+    "requestTime": "2025-09-10T02:11:12.821Z",
+    "responseTime": "2025-09-10T02:11:13.536Z",
+    "duration": 715,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 207593
   }
 ]
