@@ -5940,5 +5940,141 @@
     },
     "body": {},
     "responseSize": 207593
+  },
+  {
+    "timestamp": "2025-09-10T16:23:11.067Z",
+    "requestTime": "2025-09-10T16:22:56.009Z",
+    "responseTime": "2025-09-10T16:23:11.067Z",
+    "duration": 15058,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 500,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 175
+  },
+  {
+    "timestamp": "2025-09-10T16:23:26.068Z",
+    "requestTime": "2025-09-10T16:23:11.071Z",
+    "responseTime": "2025-09-10T16:23:26.068Z",
+    "duration": 14997,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 500,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 175
+  },
+  {
+    "timestamp": "2025-09-10T16:23:45.685Z",
+    "requestTime": "2025-09-10T16:23:44.491Z",
+    "responseTime": "2025-09-10T16:23:45.685Z",
+    "duration": 1194,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 215400
+  },
+  {
+    "timestamp": "2025-09-10T16:23:46.153Z",
+    "requestTime": "2025-09-10T16:23:45.708Z",
+    "responseTime": "2025-09-10T16:23:46.153Z",
+    "duration": 445,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 207593
+  },
+  {
+    "timestamp": "2025-09-10T16:23:46.198Z",
+    "requestTime": "2025-09-10T16:23:45.716Z",
+    "responseTime": "2025-09-10T16:23:46.198Z",
+    "duration": 482,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 215400
+  },
+  {
+    "timestamp": "2025-09-11T01:08:56.032Z",
+    "requestTime": "2025-09-11T01:08:55.240Z",
+    "responseTime": "2025-09-11T01:08:56.032Z",
+    "duration": 792,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 215400
+  },
+  {
+    "timestamp": "2025-09-11T01:08:56.257Z",
+    "requestTime": "2025-09-11T01:08:56.037Z",
+    "responseTime": "2025-09-11T01:08:56.257Z",
+    "duration": 220,
+    "method": "GET",
+    "url": "/api/special-plan?p1=000",
+    "statusCode": 200,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "000"
+    },
+    "body": {},
+    "responseSize": 207593
+  },
+  {
+    "timestamp": "2025-09-12T11:30:30.813Z",
+    "requestTime": "2025-09-12T11:30:15.798Z",
+    "responseTime": "2025-09-12T11:30:30.813Z",
+    "duration": 15015,
+    "method": "GET",
+    "url": "/api/special-plan?p1=001",
+    "statusCode": 500,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {},
+    "query": {
+      "p1": "001"
+    },
+    "body": {},
+    "responseSize": 175
   }
 ]
